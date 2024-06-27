@@ -1,0 +1,20 @@
+{
+  "name": "express_website",
+  "version": "1.0.0",
+  "description": "Simple website",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aridal SAMI",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "^4.19.2",
+    "nodemailer": "*",
+    "pug": "^3.0.3"
+  },
+  "keywords": [],
+  "devDependencies": {}
+}
