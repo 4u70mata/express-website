@@ -58,7 +58,3 @@ This project is not configured for production deployment. Consider enhancing sec
 
 - Aridal Sami
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
